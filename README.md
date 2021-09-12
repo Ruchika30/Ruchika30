@@ -38,7 +38,7 @@ I am a frontend developer. I love building  web applications and mobile apps. I 
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## My Recent Blog posts ✍️
+<!-- ## My Recent Blog posts ✍️ -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Introducing Styler - The Next Generation CSS Builder in the Web for your Hashnode Blog ✨️](https://saviomartin.com/styler) -->
