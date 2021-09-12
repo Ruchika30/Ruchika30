@@ -37,6 +37,7 @@ I am a frontend developer. I love building  web applications and mobile apps. I 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
@@ -44,12 +45,12 @@ I am a frontend developer. I love building  web applications and mobile apps. I 
 <!-- - [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://saviomartin.com/introducing-slickr-the-most-powerful-cover-image- -->
 <!-- BLOG-POST-LIST:END -->
 
-## 👨‍💻 Weekly Development Breakdown
+<!-- ## 👨‍💻 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 41 mins   ███████████████████████▒░   92.87 % 
-CSS          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+CSS          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %  -->
 ```
 <!--END_SECTION:waka-->
 
