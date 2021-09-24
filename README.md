@@ -5,7 +5,7 @@
  
 I am a frontend developer. I like building applications which solves some problem. I like helping people in the dev community. Open to all DMs on [Twitter](https://twitter.com/am_ruchika)
 
-- 🔭 Currently a Developer working on MERN Stack
+- 🔭 Currently a Developer working on Frontend
 - 💬 Ask me about Frontend Technologies
 - I am working on writing test cases these days
 - Working on increasing performance of a web-app
