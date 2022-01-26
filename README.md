@@ -5,7 +5,7 @@
  
 I am a frontend developer at Jio Platforms. I like building applications which solves some problem. I like helping people in the dev community. Open to all DMs on [Twitter](https://twitter.com/am_ruchika)
 
-- 🔭 Mentor at Hacktoberfest 2021
+
 - 💬 Ask me about Frontend Technologies
 - I am working on writing test cases these days
 - Working on increasing performance of a web-app
