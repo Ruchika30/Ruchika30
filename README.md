@@ -7,7 +7,7 @@ I am a frontend developer at Jio Platforms. I like building applications which s
 
 
 - 💬 Ask me about Frontend Technologies
-- I am working on building features for a B2B web app which will be used by merchants pan Inida
+- I am working on building features for a Jio Prime Partnet, B2B web app which will be used by merchants pan India
 - Working on increasing performance of a web-app
 - ⚡ Fun fact: Big fan of Paintings, love knowing stories of people
 - 📫 Reach me: [ruchikasood333@gmail.com](mailto:ruchikasood333@gmail.com) & [Twitter @am_ruchika](https://twitter.com/am_ruchika)
@@ -34,6 +34,7 @@ I am a frontend developer at Jio Platforms. I like building applications which s
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/typescript-00688B?style=for-the-badge&logo=figma&logoColor=white)
 
 
 <!-- ## My Recent Blog posts ✍️ -->
