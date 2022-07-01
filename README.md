@@ -7,7 +7,7 @@ I am a frontend developer at Jio Platforms. I like building applications which s
 
 
 - 💬 Ask me about Frontend Technologies
-- I am working on writing test cases these days
+- I am working on building features for a B2B web app which will be used by merchants pan Inida
 - Working on increasing performance of a web-app
 - ⚡ Fun fact: Big fan of Paintings, love knowing stories of people
 - 📫 Reach me: [ruchikasood333@gmail.com](mailto:ruchikasood333@gmail.com) & [Twitter @am_ruchika](https://twitter.com/am_ruchika)
