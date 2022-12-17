@@ -7,8 +7,9 @@ I am a frontend developer at Jio Platforms. I like building applications which s
 
 
 - 💬 Ask me about Frontend Technologies
-- I am working on building features for a Jio Prime Partnet, B2B web app which will be used by merchants pan India
+- I am working on building features for a Jio Prime Partner, B2B web app which will be used by merchants pan India
 - Working on increasing performance of a web-app
+- Admin at [JS_Fundamentals](https://www.instagram.com/jsfundamentals/). Check it out if you like glowing fonts & slides & you are interested in learning JS in short snippets 
 - ⚡ Fun fact: Big fan of Paintings, love knowing stories of people
 - 📫 Reach me: [ruchikasood333@gmail.com](mailto:ruchikasood333@gmail.com) & [Twitter @am_ruchika](https://twitter.com/am_ruchika)
 - 😄 Pronouns: She/ her
