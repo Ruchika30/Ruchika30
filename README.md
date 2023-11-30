@@ -3,7 +3,7 @@
 <!-- ![](https://raw.githubusercontent.com/saviomartin/saviomartin/main/github-banner%20(1).png)
  -->
  
-I am a frontend developer at Forcepoint. I have experience of working t giants like JIO, TCS. I like building applications which solves some problem. I like helping people in the dev community. Open to all DMs on [Twitter](https://twitter.com/am_ruchika)
+I am a frontend developer at Forcepoint. I have experience of working at giants like JIO, TCS. I like building applications which solves some problem. I like helping people in the dev community. Open to all DMs on [Twitter](https://twitter.com/am_ruchika)
 
 
 - 💬 Ask me about Frontend Technologies
