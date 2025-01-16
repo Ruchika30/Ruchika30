@@ -7,19 +7,23 @@ I am a frontend developer at Forcepoint. I have experience of working at giants 
 
 
 - 💬 Ask me about Frontend Technologies
-- I am working on building features for a Jio Prime Partner, B2B web app which will be used by merchants pan India
-- Working on increasing performance of a web-app
+- Recently I have worked with AI and built "FP Risk Analyser" which analyses various risk factors involving system deisgn as part of company hackathon project
+- I am working with cyber security firm called Forcepint, for their various products namesly FOne, SASE based paltform, CASB
+- Previously worked with JIO for Jio Prime Partner, B2B web app which is used by merchants pan India
+- Worked on increasing performance of a web-app, migrating huge leagacy code bases
 - Admin at [JS_Fundamentals](https://www.instagram.com/jsfundamentals/). Check it out if you like glowing fonts & slides & you are interested in learning JS in short snippets 
+- Built web app for TheGreenBowl company (Healthy Food industry) https://thegreenbowl.co/
 - ⚡ Fun fact: Big fan of Paintings, love knowing stories of people
 - 📫 Reach me: [ruchikasood333@gmail.com](mailto:ruchikasood333@gmail.com) & [Twitter @am_ruchika](https://twitter.com/am_ruchika)
 - 😄 Pronouns: She/ her
 
 ## Find me around the web 🌍
 
-- [Instagram](https://www.instagram.com/ruchikasood.3/)
 - [LinkedIn](https://www.linkedin.com/in/ruchika-sood-0470a799/)
-- [Twitter](https://twitter.com/am_ruchika)
 - [Hashnode](https://hashnode.com/@RuchikaSood)
+- [Twitter](https://twitter.com/am_ruchika)
+- [Instagram](https://www.instagram.com/ruchikasood.3/)
+
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
