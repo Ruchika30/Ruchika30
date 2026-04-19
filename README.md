@@ -27,7 +27,7 @@ I am a frontend developer currentky working at Adform. Previously part of Forcep
 - [Instagram](https://www.instagram.com/ruchikasood.3/)
 
 
-## My skills 🚀
+## My exporsure with Tech stacks🚀
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next-23232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/typescript-00688B?style=for-the-badge&logo=figma&logoColor=white)
