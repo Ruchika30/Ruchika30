@@ -17,6 +17,8 @@ I am a frontend developer at Forcepoint. I have experience of working at giants 
 - 📫 Reach me: [ruchikasood333@gmail.com](mailto:ruchikasood333@gmail.com) & [Twitter @am_ruchika](https://twitter.com/am_ruchika)
 - 😄 Pronouns: She/ her
 
+<a href="https://app.daily.dev/ruchikasood"><img src="https://api.daily.dev/devcards/v2/cIBstr26gP.png?r=zde&type=default" width="356" alt="Ruchika Sood's Dev Card"/></a>
+
 ## Find me around the web 🌍
 
 - [LinkedIn](https://www.linkedin.com/in/ruchika-sood-0470a799/)
